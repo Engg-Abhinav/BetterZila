@@ -1,0 +1,5 @@
+streamlit==1.10.0
+PyPDF2==2.10.0
+langchain==0.1.0
+faiss-cpu==1.7.2
+cohere==2022.5
